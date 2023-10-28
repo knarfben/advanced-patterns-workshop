@@ -26,6 +26,6 @@
     }
   },
   "include": [
-    "/Users/fbenady/dev/ts/advanced-patterns-workshop/src/01-branded-types/03-entity-fetching.problem.ts"
+    "/Users/fbenady/dev/ts/advanced-patterns-workshop/src/01-branded-types/06-index-signatures.problem.ts"
   ]
 }
