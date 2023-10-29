@@ -6,6 +6,14 @@ import { expect, it } from "vitest";
  * this file?
  */
 
+declare global {
+  interface DispatchableEvent {
+    UPDATE_USERNAME: {
+      username: string;
+    };
+  }
+}
+
 const handler = (event: UnionOfDispatchableEvents) => {
   switch (event.type) {
     case "LOG_OUT":

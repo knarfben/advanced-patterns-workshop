@@ -26,6 +26,6 @@
     }
   },
   "include": [
-    "/Users/fbenady/dev/ts/advanced-patterns-workshop/src/01-branded-types/06-index-signatures.problem.ts"
+    "/Users/fbenady/dev/ts/advanced-patterns-workshop/src/03-type-predicates-assertion-functions/12-type-predicates-with-filter.problem.ts"
   ]
 }
